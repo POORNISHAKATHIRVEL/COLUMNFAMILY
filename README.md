@@ -8,6 +8,7 @@ In this stu_details table there are three columns named bio, marks and details o
 
 
 In the first row I updated the values of row no 01 by changing their mobileno of bio, Then In the second row I inserted the CGPA of marks column using put keyword. finally I deleted the last row's MQ/GQ of details using delete keyword.
+![WhatsApp Image 2023-03-18 at 10 09 47 PM](https://user-images.githubusercontent.com/114007429/226120693-7d01720d-c09b-45e7-822b-487a06f720ee.jpeg)
 
 To make the above operation I used the following keywords:
      put- put keyword is used to insert and update the values of the student in the table 
